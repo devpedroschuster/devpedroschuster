@@ -1,16 +1,40 @@
-## Hi there 👋
+### Olá! 👋 Eu sou Pedro Schuster
 
-<!--
-**devpedroschuster/devpedroschuster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Desenvolvedor Full Stack em formação. 🚀
+> Apaixonado por transformar ideias em realidade através do código.
 
-Here are some ideas to get you started:
+Atualmente estou focado em construir uma base sólida para a web, dominando as tecnologias essenciais do front-end com uma base em back-end.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 O que estou estudando:
+
+Estou imerso na trinca fundamental da web, construindo projetos práticos para solidificar meu conhecimento.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](httpss://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+Minhas ferramentas diárias incluem:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 🌱 Próximos Passos
+
+Meu objetivo é me tornar um desenvolvedor Full Stack. Meus próximos passos na jornada de aprendizado incluem:
+
+* Frameworks Front-End (como React ou Vue)
+* Back-End (Node.js)
+* Bancos de Dados (SQL e NoSQL)
+
+---
+
+### 📫 Como me encontrar:
+
+Sinta-se à vontade para se conectar!
+
+* **LinkedIn:** `https://www.linkedin.com/in/pedro-regus-schuster-382b04104/`
+* **E-mail:** `devpedroschuster@gmail.com`
