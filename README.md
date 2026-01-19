@@ -37,5 +37,5 @@ Meu objetivo é me tornar um desenvolvedor Full Stack. Meus próximos passos na 
 
 Sinta-se à vontade para se conectar!
 
-* **LinkedIn:** `https://www.linkedin.com/in/pedro-regus-schuster-382b04104/`
+* **LinkedIn:** `https://www.linkedin.com/in/pedrorschuster/`
 * **E-mail:** `devpedroschuster@gmail.com`
